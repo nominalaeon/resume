@@ -3,6 +3,8 @@
 
 [noah@rodenbeek.com](mailto:noah@rodenbeek.com) • 785-856-8686
 
+[Download PDF](https://github.com/nominalaeon/resume/raw/master/resume.pdf)
+
 ---
 
 * [Experience](#Experience)
