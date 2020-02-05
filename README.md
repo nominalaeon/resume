@@ -5,22 +5,35 @@
 
 ---
 
-- [Experience](#experience)
-  - [Front-end Developer at GlynnDevins](#front-end-developer-at-glynndevins)
-  - [Lead Technologist at VML](#lead-technologist-at-vml)
-  - [Software Engineer at Epiq Systems](#software-engineer-at-epiq-systems)
-  - [Web Developer at Two West](#web-developer-at-two-west)
-  - [Web Developer at VML](#web-developer-at-vml)
-  - [Application Development at Allen Press, Inc.](#application-development-at-allen-press-inc)
-  - [Electronic PrePress at Allen Press, Inc.](#electronic-prepress-at-allen-press-inc)
-- [Personal Projects](#personal-projects)
-  - [Drawn By Mouse](#drawn-by-mouse)
-  - [Very Mint Comics](#very-mint-comics)
-- [Education](#education)
+* [Experience](#Experience)
+  * [Front-end Developer at Galaxy Media](#Front-end-Developer-at-Galaxy-Media)
+  * [Front-end Developer at GlynnDevins](#Front-end-Developer-at-GlynnDevins)
+  * [Lead Technologist at VML](#Lead-Technologist-at-VML)
+  * [Software Engineer at Epiq Systems](#Software-Engineer-at-Epiq-Systems)
+  * [Web Developer at Two West](#Web-Developer-at-Two-West)
+  * [Web Developer at VML](#Web-Developer-at-VML)
+  * [Application Development at Allen Press, Inc.](#Application-Development-at-Allen-Press-Inc)
+  * [Electronic PrePress at Allen Press, Inc.](#Electronic-PrePress-at-Allen-Press-Inc)
+* [Personal Projects](#Personal-Projects)
+  * [Drawn By Mouse](#Drawn-By-Mouse)
+  * [Very Mint Comics](#Very-Mint-Comics)
+* [Education](#Education)
 
 ---
 
 ## Experience
+
+### Front-end Developer at Galaxy Media
+
+Building a component-driven web applications using Vue.
+
+***Estars:*** An esports gambling website that allows users to connect with a real-time scheduling and results system for video game contests. Utilizing web sockets, results were constantly being updated for the best experience possible.
+
+***BlazeTV:*** A streaming service for political vloggers. Like Estars, the content provided needed to be current and always refreshing itself.
+
+**Front-end experience:** VueJS, Nuxt, WebSockets
+
+**Back-end experience:** Wordpress, PHP, NodeJS
 
 ### Front-end Developer at GlynnDevins
 
