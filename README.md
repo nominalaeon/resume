@@ -25,6 +25,8 @@
 
 ### Front-end Developer at Galaxy Media
 
+> March 2019 - January 2020
+
 Building a component-driven web applications using Vue.
 
 ***Estars:*** An esports gambling website that allows users to connect with a real-time scheduling and results system for video game contests. Utilizing web sockets, results were constantly being updated for the best experience possible.
@@ -37,7 +39,7 @@ Building a component-driven web applications using Vue.
 
 ### Front-end Developer at GlynnDevins
 
-> August 2018 - present
+> August 2018 - March 2019
 
 Responsible for refactoring existing code to enhance application speed as well as code readability. Mostly Wordpress plugins, the projects I work with were built with basic JavaScript/JQuery and CSS. I have migrated these projects to modern build systems using Node, Gulp, and Webpack to utilize Sass and ES6 modules for the JavaScript.
 
