@@ -29,9 +29,9 @@
 
 Building a component-driven web applications using Vue.
 
-***Estars:*** An esports gambling website that allows users to connect with a real-time scheduling and results system for video game contests. Utilizing web sockets, results were constantly being updated for the best experience possible.
+**Estars:** An esports gambling website that allows users to connect with a real-time scheduling and results system for video game contests. Utilizing web sockets, results were constantly being updated for the best experience possible.
 
-***BlazeTV:*** A streaming service for political vloggers. Like Estars, the content provided needed to be current and always refreshing itself.
+**BlazeTV:** A streaming service for political vloggers. Like Estars, the content provided needed to be current and always refreshing itself.
 
 **Front-end experience:** VueJS, Nuxt, WebSockets
 
